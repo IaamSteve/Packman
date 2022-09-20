@@ -20,6 +20,6 @@ class Szele {
 const szele = new Szele({
     position: {
         x: 0,
-        y: 0;
+        y: 0
     }
 })
