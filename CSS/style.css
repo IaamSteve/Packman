@@ -1,4 +1,7 @@
-body {
-    margin: 0%;
-    background-color: black;
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+    border: solid black;
 }
